@@ -92,5 +92,5 @@ ITEM_PIPELINES = {
     'tutorial.pipelines.TutorialPipeline': 300,
     'tutorial.pipelines.MongoPipeline': 400,
 }
-MONGO_URI = 'localhost'
+MONGO_URI = '10.201.11.94'
 MONGO_DB = 'tutorial'
